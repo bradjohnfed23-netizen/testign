@@ -12,7 +12,7 @@ import time
 from urllib.parse import urljoin
 
 # --- Configuration ---
-TARGET_DOMAIN = "https://qau.edu.pk/"  # Change to your authorized target
+TARGET_DOMAIN = ""  # Change to your authorized target
 COMMON_PATHS = [
     "admin", "login", "api", "backup", "config",
     "robots.txt", "sitemap.xml", ".git/HEAD"
